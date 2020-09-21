@@ -9,6 +9,7 @@ I write about things I am familiar with and things that I am learning.
 
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
+   - Building better Solutions to Real Time Projects (priority)
    - Clojure <br/>
    - Working with Google cloud <br/>
    - Building something awesome <br/>
